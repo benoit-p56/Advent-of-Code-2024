@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.io.File;
 import java.util.Scanner;
 
-public class day_one {
+public class day_one_p1 {
 
     public static int d_calculator(ArrayList<Integer> l1, ArrayList<Integer> l2) {
         Collections.sort(l1);
